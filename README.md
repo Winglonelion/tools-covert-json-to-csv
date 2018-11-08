@@ -4,4 +4,6 @@
 input file is: `input.json`
 output file is `output.csv`
 
-Please ensure this files exist before start convert data
+**Please ensure this files exist before start convert data**
+
+run `npm start` and enjoy
