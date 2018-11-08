@@ -1,0 +1,16 @@
+{
+  "name": "ejoy-json2csv",
+  "version": "1.0.0",
+  "description": "tool to convert json file to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Wing Lonelion nguyenbuiducthuan@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "json2csv": "^4.3.0"
+  }
+}
